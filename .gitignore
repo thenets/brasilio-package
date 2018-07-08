@@ -1,6 +1,7 @@
 # Brasil.io
 .brasilio
 package
+src/resources.json
 
 #
 # Default excludes
